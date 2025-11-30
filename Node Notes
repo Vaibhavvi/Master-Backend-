@@ -1,0 +1,28 @@
+01----   Node.js is not a programming language and not a framework or library......and it is also not a technology ..........
+
+
+Node.js is a JavaScript run time enviorment for running JavaScript code......
+
+
+02----   HTTP and HTTPs --------------------
+
+HTTP -- It is protocol used for sending or receiving data on computer or Network devices. Hyper Text Transfer protocol.............
+
+
+03----    NPM -------------------
+
+NPM are Node Package Manager where all the node package are stored and available and you can install npm and use it according to your need ..................
+
+
+04----    Node_Modules ---------------
+
+Node modules where all the dependecies package store and it can store some dependecies which you can use it 
+
+
+05----     Devdependencies ----------------
+
+It is use only learning phase not on Deployment phase ........
+
+06----     Dependencies -----------------
+
+Packages and Dependencies of package 
