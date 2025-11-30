@@ -39,6 +39,8 @@ const server = http.createServer((req,res) => {
     res.end("Hello vaibhav, Welcome to Node.js");
 })
 
-server.listen(3000, () => {
-    console.log("Server is listining on port 3000");
+// When you Use Express.js framework for creating a simple web server then it is like
+const port = 3000;
+server.listen(port, () => {
+    console.log(`Server is listening on port ${port}`);
 })
