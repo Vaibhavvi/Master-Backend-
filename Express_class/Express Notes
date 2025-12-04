@@ -1,0 +1,16 @@
+About Today Topic---------------
+
+01 ---   Introduction to Express.js
+02 ---   Setting up a basic Express App
+03 ---   Routing
+04 ---   Middleware
+05 ---   Request and Response Handling
+06 ---   Error Handling 
+
+
+
+Start ----------------
+
+01 -------- Express.js is a NPM package and it is framework (means it is flow not given tool for creating web but give instruction and method to do this in a structure way and we can add more functionality with yourself ................) . It is managing everything from receiving the request and giving the response ....
+
+02 -----------  Middleware are used before Routing in our App ...........It is used for 
