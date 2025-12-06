@@ -1,6 +1,9 @@
 const express = require('express');
 const app = express();
 
+app.use(express.json()); // Middleware to parse JSON bodies
+app.use(express.urlencoded({extended:true})); // Middleware to parse URL-encoded bodies
+
 app.use(function(req,res,next){
     console.log('Middleware Executed');
     next();  // This will move to the next middleware or route handler
